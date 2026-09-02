@@ -1,0 +1,12 @@
+{"input": "Trinary.new('1').to_decimal", "expect": 1, "raised": false, "task": "trinary", "lang": "ruby"}
+{"input": "Trinary.new('2').to_decimal", "expect": 2, "raised": false, "task": "trinary", "lang": "ruby"}
+{"input": "Trinary.new('10').to_decimal", "expect": 3, "raised": false, "task": "trinary", "lang": "ruby"}
+{"input": "Trinary.new('11').to_decimal", "expect": 4, "raised": false, "task": "trinary", "lang": "ruby"}
+{"input": "Trinary.new('100').to_decimal", "expect": 9, "raised": false, "task": "trinary", "lang": "ruby"}
+{"input": "Trinary.new('112').to_decimal", "expect": 14, "raised": false, "task": "trinary", "lang": "ruby"}
+{"input": "Trinary.new('222').to_decimal", "expect": 26, "raised": false, "task": "trinary", "lang": "ruby"}
+{"input": "Trinary.new('1122000120').to_decimal", "expect": 32091, "raised": false, "task": "trinary", "lang": "ruby"}
+{"input": "Trinary.new('carrot').to_decimal", "expect": 0, "raised": false, "task": "trinary", "lang": "ruby"}
+{"input": "Trinary.new('0a1b2c').to_decimal", "expect": 0, "raised": false, "task": "trinary", "lang": "ruby"}
+{"input": "Trinary.new(\"Invalid\\n201\\nString\").to_decimal", "expect": 0, "raised": false, "task": "trinary", "lang": "ruby"}
+{"input": "Trinary.new('4').to_decimal", "expect": 0, "raised": false, "task": "trinary", "lang": "ruby"}
